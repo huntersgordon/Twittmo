@@ -1,4 +1,5 @@
-#Venttir: venmo plus twitter. Automatically venmos a penny when somebody
+#Written By Hunter Gordon on May 8, 2018. UC Berkeley Computer Science
+#Twittmo: venmo plus twitter. Automatically venmos a penny when somebody
 #tweets their venmo username at you.
 while
      #check for new tweets at you every 30 seconds. (API Limit is 180 calls every 15 mins)
