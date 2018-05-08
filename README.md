@@ -1,5 +1,5 @@
 # Twittmo
-This script updates every 30 seconds, looking for the most recent tweet at your username. Then it automatically Venmos that peson one cent. Never Venmos the same person twice!
+This script updates every 30 seconds, looking for the most recent Tweet at your username. Then it automatically Venmos that peson one cent. Never Venmos the same person twice!
 
 
 1.`pip install venmo` 
