@@ -1,5 +1,4 @@
 # Twittmo
-A Cool Twitter-Venmo Collaboration written in bash :)
 This script updates every 30 seconds, looking for the most recent tweet at your username. Then it automatically Venmos that peson one cent.
 
 
