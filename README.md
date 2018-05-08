@@ -9,4 +9,4 @@ This script updates every 30 seconds, looking for the most recent tweet at your 
 
 2. Install [t](https://github.com/sferik/t)
 
-3. Change line 8 from '''djhunty''' to your username
+3. Change line 8 from 'djhunty' to your username
